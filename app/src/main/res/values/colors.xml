@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="splash_background">#AEAEFF</color>
+
+    <!-- Added Colors for Purple Theme -->
+    <color name="blue_200">#FF91A4FC</color>
+    <color name="blue_500">#FF3F51B5</color>
+    <color name="blue_700">#FF303F9F</color>
+    <color name="grey_blue">#FFB0BEC5</color>
+    <color name="accent_blue">#FF448AFF</color>
+
+    <!-- Dark Theme Adjustments -->
+    <color name="dark_grey_900">#3f4145</color> <!-- Slightly lighter black -->
+    <color name="dark_grey_800">#FF2D2D2D</color> <!-- Medium dark grey -->
+    <color name="grey_700">#FF424242</color>
+    <color name="soft_white">#FFF5F5F5</color> <!-- Slightly off-white for better contrast -->
+    <color name="grey_600">#FF757575</color>
+    <color name="white_200">#a0a1a3</color>
+
+    <!-- Primary Colors -->
+    <color name="blue_primary">#6A5ACD</color>
+    <color name="blue_secondary">#FFBB86FC</color> <!-- Light purple shade -->
+    <color name="highlight_yellow">#FFD700</color> <!-- Highlight color for graph lines -->
+    <color name="background_dark_blue">#1B0036</color> <!-- Dark background for main areas -->
+
+    <!-- Text and Accent Colors -->
+    <color name="text_color_light">#FFFFFF</color> <!-- White for text on dark backgrounds -->
+    <color name="text_color_dark">#2E2E2E</color> <!-- Dark text for light backgrounds -->
+    <color name="grey_light">#F1F1F1</color> <!-- Light grey for background areas -->
+    <color name="indicator_purple">#8E24AA</color> <!-- Purple indicator color for scores and ratings -->
+    <color name="button_background">#8B80F9</color> <!-- Slightly lighter purple for buttons and icons -->
+
+    <color name="yellow_primary">#FFD600</color> <!-- Vibrant yellow for primary background elements -->
+    <color name="yellow_secondary">#FFEB3B</color> <!-- Light yellow for accents and backgrounds -->
+    <color name="black_primary">#FF000000</color> <!-- Black for icons and text on yellow background -->
+    <color name="dark_grey">#FF212121</color> <!-- Dark grey for backgrounds and contrast elements -->
+
+    <!-- Text and Icon Colors -->
+    <color name="text_color_dark2">#FF000000</color> <!-- Black text for use on lighter yellow -->
+
+    <color name="dark_brown">#4E342E</color>
+    <color name="darker_brown">#3E2723</color>
+    <color name="light_brown">#6D4C41</color>
+    <color name="dark_brown_background">#2D2219</color>
+    <!-- <color name="soft_white">#FFF5F5F5</color> -->
+
+    <!-- Colors for Light Yellow Theme -->
+    <color name="light_yellow">#FBC02D</color>
+    <color name="darker_yellow">#FBC02D</color>
+    <color name="very_light_yellow">#FFFCF2</color>
+    <color name="dark_yellow">#FBC02D</color>
+    <color name="black_primary2">#000000</color>
+
+    <!-- Text and Accent Colors -->
+    <!-- <color name="grey_light">#F1F1F1</color> -->
+    <color name="grey_dark">#efefef</color>
+    <!-- <color name="text_color_dark">#2E2E2E</color> -->]
+
+    <color name="dark_blue">#124559</color>
+    <color name="darker_blue">#01161e</color>
+    <color name="light_blue">#598392</color>
+    <color name="beige">#eff6e0</color>
+
+</resources>
