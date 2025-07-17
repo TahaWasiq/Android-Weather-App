@@ -1,0 +1,16 @@
+<resources>
+    <style name="CustomSpinnerStyleLightYellow" parent="Widget.AppCompat.Spinner">
+        <item name="android:background">@color/very_light_yellow</item>
+        <item name="android:popupBackground">@color/very_light_yellow</item>
+    </style>
+
+    <style name="CustomSpinnerStyleDarkBrown" parent="Widget.AppCompat.Spinner">
+        <item name="android:background">@color/dark_brown</item>
+        <item name="android:popupBackground">@color/dark_brown_background</item>
+    </style>
+
+    <style name="CustomSpinnerStylePurple" parent="Widget.AppCompat.Spinner">
+        <item name="android:background">@color/blue_200</item>
+        <item name="android:popupBackground">@color/blue_200</item>
+    </style>
+</resources>

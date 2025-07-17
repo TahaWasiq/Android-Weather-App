@@ -1,0 +1,22 @@
+pluginManagement {
+    repositories {
+        maven {
+            url = uri("${rootProject.name}/app/src/test/java/edu/uiuc/cs427app")
+        }
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        maven {
+            url = uri("${rootProject.name}/app/src/test/java/edu/uiuc/cs427app")
+        }
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "CS427App"
+include ':app'
